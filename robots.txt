@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khairulp031.github.io/belajarhtml/sitemap.xml
